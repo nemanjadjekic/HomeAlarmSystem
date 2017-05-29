@@ -9,3 +9,5 @@
     and Timer 2 represent alarm light. LCD display has 
     classic usage and it is used to printout system 
     status, if object is locked or unlocked.
+
+More about board on this link: https://download.mikroe.com/documents/full-featured-boards/easy/easyavr-v7/easyavr-v7-manual-v101.pdf
